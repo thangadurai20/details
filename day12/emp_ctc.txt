@@ -1,0 +1,4 @@
+emp_id: 124
+salary: 30000
+total_days: 30
+emp_name: dharun

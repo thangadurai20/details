@@ -1,0 +1,2 @@
+absent days: 4
+final salary: 26000
